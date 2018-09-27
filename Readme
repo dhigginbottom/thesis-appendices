@@ -1,1 +1,11 @@
 This repository contains appendices to Daniel Higginbottom's PhD thesis 'Atom-light couplers with one, two and ten billion atoms' submitted on the 29th of March 2018.
+
+Appendix A - Dipole field images:
+
+This Mathematica notebook contains the vector derivation of the dipole field imaged by a spherical lens or parabolic mirror. 
+The apparent emmitter displacement, and the ellipticity of the maximally displaced dipole are calculated. 
+The coupling efficiency of free-space collimators is determined by integrating the overlap of the field images with LG fibre modes.
+
+Appendix B - Wavefronts of an elliptical dipole:
+
+This Mathematica notebook derives analytical expressions for the wavefronts of a dipole field and plots the wavefronts as a function of dipole ellipticity. Supermomentum is exhibited by the wavefronts of the elliptical dipoles.
